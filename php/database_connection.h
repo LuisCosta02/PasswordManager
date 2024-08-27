@@ -1,7 +1,7 @@
 <?php
-	define("USER_BD","postgres"); // PostgreSQL username
-	define("PASS_BD","Naonaosei21."); // PostgreSQL password
-	define("NOME_BD","PasswordManager"); // PostgreSQL database name
+	define("USER_BD",""); // PostgreSQL username
+	define("PASS_BD",""); // PostgreSQL password
+	define("NOME_BD",""); // PostgreSQL database name
 	$hostname_conn = "localhost"; // Hostname (usually 'localhost' for local server)
 	$port = "5432"; // Default PostgreSQL port
 
